@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800227630754",
+    "firebase_url": "https://filestorage-6526c.firebaseio.com",
+    "project_id": "filestorage-6526c",
+    "storage_bucket": "filestorage-6526c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800227630754:android:1bc8871c9498f026",
+        "android_client_info": {
+          "package_name": "studio.in.prakharshuka.filestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800227630754-ptfhsipfoq2vov5pddls1k7tlv5i1ic5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.in.prakharshuka.filestorage",
+            "certificate_hash": "f462860ff0b5aa47c69fe8ce5b94f83d0071508b"
+          }
+        },
+        {
+          "client_id": "800227630754-0a7038ulvoohg3dv4ibnoka4692id5rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUBNvA9klF0cb3IKeE6YANa_EYSMweuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800227630754-0a7038ulvoohg3dv4ibnoka4692id5rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
